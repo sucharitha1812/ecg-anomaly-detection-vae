@@ -173,6 +173,7 @@ ecg-anomaly-detection-vae/
 │
 ├── README.md
 ├── ecg-anomaly-detection-vae.ipynb
+├── ecg-anomaly-detection-vae.py
 ├── ecg-anomaly-detection-report.pdf
 │
 ├── images/
